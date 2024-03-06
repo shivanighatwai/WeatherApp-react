@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/WeatherApp-react/static/css/main.16ac3736.css",
+    "main.js": "/WeatherApp-react/static/js/main.836ec8a6.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/WeatherApp-react/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/sunny.png": "/WeatherApp-react/static/media/sunny.20e7d4a7d2e24dbce16d.png",
+    "static/media/sun-cloudy.png": "/WeatherApp-react/static/media/sun-cloudy.20f0cc1d2fa7fabb49bb.png",
+    "static/media/sun.png": "/WeatherApp-react/static/media/sun.b972dcf61eb381f03551.png",
+    "static/media/raining-cloudy.png": "/WeatherApp-react/static/media/raining-cloudy.f009e441a604361a2783.png",
+    "static/media/cloudy.png": "/WeatherApp-react/static/media/cloudy.a6d0b7d87d2022baaf47.png",
+    "static/media/cloud.png": "/WeatherApp-react/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/WeatherApp-react/index.html",
+    "main.16ac3736.css.map": "/WeatherApp-react/static/css/main.16ac3736.css.map",
+    "main.836ec8a6.js.map": "/WeatherApp-react/static/js/main.836ec8a6.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/WeatherApp-react/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16ac3736.css",
+    "static/js/main.836ec8a6.js"
+  ]
+}
